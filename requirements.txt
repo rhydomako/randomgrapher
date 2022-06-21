@@ -23,7 +23,7 @@ lambda-packages==0.16.1
 MarkupSafe==1.0
 matplotlib==2.0.2
 networkx==1.11
-numpy==1.13.1
+numpy==1.22.0
 placebo==0.8.1
 pyparsing==2.2.0
 python-dateutil==2.6.1
